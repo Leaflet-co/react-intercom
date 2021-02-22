@@ -4,7 +4,7 @@
   "description": "A component to initialize Intercom in your application",
   "main": "lib/index.js",
   "dependencies": {
-    "prop-types": "15.5.8"
+    "prop-types": "15.7.2"
   },
   "devDependencies": {
     "babel-cli": "^6.2.0",
