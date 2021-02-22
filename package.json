@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leaflet-co/react-intercom.git"
+    "url": "git+https://github.com/Leaflet-co/react-intercom.git"
   },
-  "author": "Nathan Hagen",
+  "author": "Leaflet-co",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leaflet-co/react-intercom/issues"
+    "url": "https://github.com/Leaflet-co/react-intercom/issues"
   },
-  "homepage": "https://github.com/leaflet-co/react-intercom#readme"
+  "homepage": "https://github.com/Leaflet-co/react-intercom#readme"
 }
