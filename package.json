@@ -1,13 +1,13 @@
 {
   "name": "react-intercom",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "A component to initialize Intercom in your application",
   "main": "lib/index.js",
   "dependencies": {
     "prop-types": "15.7.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.2.0",
+    "babel-cli": "6.26.0",
     "babel-preset-es2015": "^6.1.18",
     "babel-preset-react": "^6.1.18",
     "babel-preset-stage-0": "^6.1.18"
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhagen/react-intercom.git"
+    "url": "git+https://github.com/leaflet-co/react-intercom.git"
   },
   "author": "Nathan Hagen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nhagen/react-intercom/issues"
+    "url": "https://github.com/leaflet-co/react-intercom/issues"
   },
-  "homepage": "https://github.com/nhagen/react-intercom#readme"
+  "homepage": "https://github.com/leaflet-co/react-intercom#readme"
 }
